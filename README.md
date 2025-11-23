@@ -10,3 +10,9 @@ E
   <p>I made this on GitHub!</p>
 </body>
 </html>
+<title>welcome to my first coding</title>
+<photo>hi</photo>
+<title>anyway here's some stuff</title>
+<h1>I made this all by myself</h1>
+<h1>also c2a and c2e</h1>
+<README></README>
